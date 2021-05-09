@@ -2,7 +2,7 @@
 
 Ficha Técnica do trabalho Educacao e Multiculturalismo
 
-## Canção: Black is beautiful 
+### Canção: Black is beautiful 
 
 * Black is Beautiful (1971), dos compositores Paulo Sergio Valle (1940) e Marcos Valle (1943), interpretada pela cantora Elis Regina (1945-1982)
 
