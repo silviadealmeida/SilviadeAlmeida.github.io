@@ -1,4 +1,4 @@
-# Ficha Técnica
+# Ficha Técnica  
 
 Ficha Técnica do trabalho Educacao e Multiculturalismo
 
@@ -26,3 +26,7 @@ Ficha Técnica do trabalho Educacao e Multiculturalismo
  - [Paulo Sérgio Valle](https://pt.wikipedia.org/wiki/Paulo_S%C3%A9rgio_Valle)
  - [Marcos Valle](https://pt.wikipedia.org/wiki/Marcos_Valle)
  - [Elis Regina](https://pt.wikipedia.org/wiki/Elis_Regina)
+
+
+[![](https://img.shields.io/badge/Silvia%20de-Almeida-blue)](https://silviadealmeida.github.io/online/)
+
