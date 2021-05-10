@@ -23,12 +23,12 @@ Ficha Técnica do trabalho Educacao e Multiculturalismo
 
 ### Fotografias 
 
-   **Foto 1** Carl Iwasaki/Life Images Collection/Getty
-   **Foto 2** Bettmann Archive/Getty
-   **Foto 3** AP
-   **Foto 4** Bettmann / Bettmann Archive
-   **Foto 5** Francis Miller / Getty Images
-   **Foto 6** South African History Online
+ - **Foto 1** Carl Iwasaki/Life Images Collection/Getty
+ - **Foto 2** Bettmann Archive/Getty
+ - **Foto 3** AP
+ - **Foto 4** Bettmann / Bettmann Archive
+ - **Foto 5** Francis Miller / Getty Images
+ - **Foto 6** South African History Online
    
 
 
