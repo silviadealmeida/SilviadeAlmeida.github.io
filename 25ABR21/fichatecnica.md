@@ -12,21 +12,27 @@ Ficha Técnica do trabalho Educacao e Multiculturalismo
 
 * Black is Beautiful (1971), dos compositores Paulo Sergio Valle (1940) e Marcos Valle (1943), interpretada pela cantora Elis Regina (1945-1982)
 
-    Music written by
-    
-        Marcos Valle
+    Music written by Marcos Valle
         
-    Lyrics written by
-    
-        Paulo Sérgio Valle
+    Lyrics written by Paulo Sérgio Valle
         
-    Language
-    
-        Portuguese
+    Language Portuguese
         
-    ISWC
-    
-        T-039.002.977-2
+    ISWC T-039.002.977-2
+
+
+### Fotografias 
+
+   **Foto 1** Carl Iwasaki/Life Images Collection/Getty
+   **Foto 2** Bettmann Archive/Getty
+   **Foto 3** AP
+   **Foto 4** Bettmann / Bettmann Archive
+   **Foto 5** Francis Miller / Getty Images
+   **Foto 6** South African History Online
+   
+
+
+
 
 
 
