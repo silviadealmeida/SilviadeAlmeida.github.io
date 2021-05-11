@@ -4,9 +4,9 @@ Ficha Técnica do trabalho Educacao e Multiculturalismo
 
 ### Canção: Black is beautiful 
 
- - [Paulo Sérgio Valle](https://pt.wikipedia.org/wiki/Paulo_S%C3%A9rgio_Valle)
- - [Marcos Valle](https://pt.wikipedia.org/wiki/Marcos_Valle)
- - [Elis Regina](https://pt.wikipedia.org/wiki/Elis_Regina)
+ - [Paulo Sérgio Valle](http://www.paulosergiovalle.com.br/)
+ - [Marcos Valle](https://m.imdb.com/name/nm0884930/)
+ - [Elis Regina](http://www.elisregina.com.br/Eternamente/Cronologia)
  - [Letra](http://www.paulosergiovalle.com.br/asletras.htm)
  - [Video](https://youtu.be/BzrGDTUQ_KE)
 
