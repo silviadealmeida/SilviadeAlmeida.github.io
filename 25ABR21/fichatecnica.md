@@ -23,12 +23,12 @@ Ficha Técnica do trabalho Educacao e Multiculturalismo
 
 ### Fotografias 
 
- - **Foto 1** [Carl Iwasaki/Life Images Collection/Getty] (https://www.motherjones.com/politics/2019/05/these-are-photos-from-the-brown-v-board-era-but-dont-pretend-school-segregation-is-history/)
- - **Foto 2** [Bettmann Archive/Getty] (https://www.motherjones.com/politics/2019/05/these-are-photos-from-the-brown-v-board-era-but-dont-pretend-school-segregation-is-history/)
- - **Foto 3** [Associated Press] (https://www.motherjones.com/politics/2019/05/these-are-photos-from-the-brown-v-board-era-but-dont-pretend-school-segregation-is-history/)
- - **Foto 4** [Bettmann / Bettmann Archive] (https://www.buzzfeednews.com/article/gabrielsanchez/powerful-pictures-from-black-history)
- - **Foto 5** [Francis Miller / Getty Images] (https://www.buzzfeednews.com/article/gabrielsanchez/powerful-pictures-from-black-history)
- - **Foto 6** [South African History Online] (https://www.sahistory.org.za/people/stephen-bantu-biko)
+ - **Foto 1** [Carl Iwasaki/Life Images Collection/Getty](https://www.motherjones.com/politics/2019/05/these-are-photos-from-the-brown-v-board-era-but-dont-pretend-school-segregation-is-history/)
+ - **Foto 2** [Bettmann Archive/Getty](https://www.motherjones.com/politics/2019/05/these-are-photos-from-the-brown-v-board-era-but-dont-pretend-school-segregation-is-history/)
+ - **Foto 3** [Associated Press](https://www.motherjones.com/politics/2019/05/these-are-photos-from-the-brown-v-board-era-but-dont-pretend-school-segregation-is-history/)
+ - **Foto 4** [Bettmann / Bettmann Archive](https://www.buzzfeednews.com/article/gabrielsanchez/powerful-pictures-from-black-history)
+ - **Foto 5** [Francis Miller / Getty Images](https://www.buzzfeednews.com/article/gabrielsanchez/powerful-pictures-from-black-history)
+ - **Foto 6** [South African History Online](https://www.sahistory.org.za/people/stephen-bantu-biko)
    
 
 
