@@ -11,3 +11,7 @@ body {
 .btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
     background-color: #1D5869; border-color: #548897; !important;
 }
+
+html {
+  scroll-behavior: smooth;
+}
