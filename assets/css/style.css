@@ -115,14 +115,14 @@ h1, h2, h3, h4, h5, h6 {
 --------------------------------------------------------------*/
 #header {
   transition: all 0.5s;
-  background: #fff;
+  background: #16507b;
   z-index: 997;
   padding: 15px 0;
   border-bottom: 1px solid #e6f2fb;
 }
 
 #header.header-scrolled {
-  border-color: #fff;
+  border-color: #16507b;
   box-shadow: 0px 2px 15px rgba(18, 66, 101, 0.08);
 }
 
@@ -137,7 +137,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #header .logo a {
-  color: #16507b;
+  color: #fff;
 }
 
 #header .logo img {
@@ -178,7 +178,7 @@ h1, h2, h3, h4, h5, h6 {
   justify-content: space-between;
   padding: 10px 0 10px 30px;
   font-size: 14px;
-  color: #16507b;
+  color: #fff;
   white-space: nowrap;
   transition: 0.3s;
 }
@@ -190,7 +190,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .navbar a:hover, .navbar .active, .navbar li:hover > a {
-  color: #2487ce;
+  color: #2282c9;
 }
 
 .navbar .getstarted {
@@ -641,7 +641,46 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
+/*--------------------------------------------------------------
+# Aulas General
+--------------------------------------------------------------*/
+aulas {
+  padding: 10px 0;
+  overflow: hidden;
+  margin-top: 10px;
+}
 
+.aulas-bg {
+  background-color: #f8fbfe;
+}
+
+.aulas-title {
+  text-align: center;
+  padding-bottom: 10px;
+}
+
+.aulas-title h2 {
+  font-size: 12px;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin-bottom: 10px;
+  padding-bottom: 0;
+  color: #124265;
+}
+
+.aulas-title h1 {
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 10px;
+  padding-bottom: 0;
+  color: #124265;
+}
+
+.aulas-title p {
+  margin-bottom: 0;
+  font-size: 14px;
+  color: #919191;
+}
 
 
 /*--------------------------------------------------------------
